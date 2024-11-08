@@ -1,9 +1,6 @@
 
 <h1 align="center">Steven Sam Luke</h1>
 
-###
-
-<h4 align="center">Reach out to me on these platforms</h4>
 
 ###
 
