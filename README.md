@@ -1,4 +1,7 @@
-### Steven Sam Luke
+
+<h1 align="center">Steven Sam Luke</h1>
+
+###
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2yao6ntuuu7b8rsz56rua7x2q&count=1)
 
