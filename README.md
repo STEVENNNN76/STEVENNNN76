@@ -3,7 +3,7 @@
 
 ###
 
-<h5 align="center">I am constantly seeking opportunities to expand my skills, learn new technologies, and stay updated with industry trends. The satisfaction of overcoming challenges, helping my community, and delivering high-quality work is what fuels my motivation. </h5>
+<h7 align="center">I am constantly seeking opportunities to expand my skills, learn new technologies, and stay updated with industry trends. The satisfaction of overcoming challenges, helping my community, and delivering high-quality work is what fuels my motivation. </h7>
 
 <h3 align="left">🛠 Technologies</h3>
 
@@ -24,7 +24,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
+
 ###
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2yao6ntuuu7b8rsz56rua7x2q&count=1)
 
 ###
