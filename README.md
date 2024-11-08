@@ -1,4 +1,4 @@
-
+<!--
 <h1 align="center">Steven Sam Luke</h1>
 
 
@@ -15,9 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
-
-###
-
+-->
 <h7 align="center">I am constantly seeking opportunities to expand my skills, learn new technologies, and stay updated with industry trends. The satisfaction of overcoming challenges, helping my community, and delivering high-quality work is what fuels my motivation. </h7>
 
 ###
@@ -45,8 +43,6 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2yao6ntuuu7b8rsz56rua7x2q&count=1)
 
 </div>
-
-###
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
