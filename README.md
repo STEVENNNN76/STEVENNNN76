@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2yao6ntuuu7b8rsz56rua7x2q&count=1)
+
+I am constantly seeking opportunities to expand my skills, learn new technologies, and stay updated with industry trends. The satisfaction of overcoming challenges, helping my community, and delivering high-quality work is what fuels my motivation.
+
 <!--
 **STEVENNNN76/STEVENNNN76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
