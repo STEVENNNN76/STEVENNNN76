@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2yao6ntuuu7b8rsz56rua7x2q&count={count})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2yao6ntuuu7b8rsz56rua7x2q&unique={true|1|on|yes})
 
 <!--
 **STEVENNNN76/STEVENNNN76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
