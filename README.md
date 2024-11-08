@@ -3,6 +3,27 @@
 
 ###
 
+<h4 align="center">Reach out to me on these platforms</h4>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniapy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ja_adimi@esi.dz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/coffee.addict.911/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://medium.com/@ja_adimi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
 <h7 align="center">I am constantly seeking opportunities to expand my skills, learn new technologies, and stay updated with industry trends. The satisfaction of overcoming challenges, helping my community, and delivering high-quality work is what fuels my motivation. </h7>
 
 ###
